@@ -1,0 +1,3 @@
+[submodule "external-bootcamp"]
+	path = external-bootcamp
+	url = https://github.com/letsgetrusty/bootcamp.git
